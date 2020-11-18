@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjOzDAamY8Boq4IjB7RoTbaWCoxO2ZCXiz2wW88hZNw/9T2ZmRq91F2jXlhP03P6uqvpd2VGTqwdZ+k+mxT38A==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\QuickBuy\\QuickBuy.Dominio\\QuickBuy.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
