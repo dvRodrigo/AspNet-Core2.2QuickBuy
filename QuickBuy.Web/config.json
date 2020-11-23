@@ -1,0 +1,12 @@
+{
+
+  "ConnectionStrings": {
+
+    "QuickBuyDB": "Server=HEL-7\\SQLEXPRESS;Database=QuickBuyDB;Trusted_Connection=True"
+  }
+
+}
+
+
+
+
